@@ -1,6 +1,6 @@
 # Sales-Admin-Panel
 
-Project for Creating the APIs Using MySQL, Node.js, Sequelize
+Project for Creating the APIs Using Node, Express, MongoDB
 
 ## Installation
 
